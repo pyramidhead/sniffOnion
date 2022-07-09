@@ -5,4 +5,4 @@
 git clone https://github.com/susmithHCK/torghost.git
 
 # chmod self
-chmod -x sniffOnion.sh
+chmod 755 sniffOnion.sh
